@@ -1,0 +1,34 @@
+  
+h3, .jumbotron {
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+  color: #fff;
+  
+}
+
+.jumbotron {
+  background-image: url("../images/header-img.jpg");
+  height: 550px;
+  width: 1420px;
+  margin: auto;
+}
+
+body {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: burlywood;
+}
+
+img {
+	width: 400px;
+	height: 400px;
+}
+
+.btn { 
+  color: #ffffff; 
+  background-color: teal; 
+  border-color: #FFFFFF; 
+} 
+
+
+ 
